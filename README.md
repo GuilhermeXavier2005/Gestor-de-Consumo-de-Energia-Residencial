@@ -76,11 +76,17 @@ Esta é a trajetória de Ana, desde a frustração com a conta de luz até a sol
 
 ## Análise de concorrência
 
-- Pesquise serviços ou podutos existentes atualmente que possam realizar o objetivo deste projeto.
-- Selecione pelo menos 3 serviços ou podutos diferentes.
-- Em relação aos concorrentes, respondam as seguintes perguntas?
-  - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
-  - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
+1. Plugs Inteligentes (Ex: Positivo, Intelbras)
+
+Esses dispositivos são concorrentes diretos que medem o consumo de aparelhos individualmente. O ponto positivo deles é a alta precisão na medição e a funcionalidade extra de controle remoto. Contudo, apresentam como pontos negativos uma visão limitada do consumo da casa, já que seria caro e impraticável comprar um plug para cada aparelho, e a incapacidade de monitorar equipamentos de instalação fixa, como chuveiros e ar-condicionado.
+
+2. Aplicativos de Concessionárias (Ex: Enel, Neoenergia)
+
+Os aplicativos das próprias distribuidoras de energia são gratuitos e apresentam os dados oficiais do consumo total da residência, o que são seus pontos fortes. Suas principais desvantagens são a falta de detalhamento por aparelho, a ausência de informações em tempo real (os dados são atualizados com atraso) e a falta de alertas sobre consumo excessivo, fazendo com que o usuário só descubra o gasto elevado quando a fatura chega.
+
+3. Ecossistemas de Casa Inteligente (Ex: Google Home, Alexa)
+
+Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são a automação, que permite criar rotinas para economizar energia, e a conveniência de centralizar o controle de vários dispositivos. Os pontos negativos são que o foco principal é a automação e não a análise de consumo, o alto custo para montar o ecossistema e a análise de dados de energia, que é geralmente muito básica ou até mesmo inexistente.
 
 ## Coleta de dados
 
