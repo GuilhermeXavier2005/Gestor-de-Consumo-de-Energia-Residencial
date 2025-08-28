@@ -53,10 +53,26 @@ Apresente uma breve descrição da sua aplicação ou produto.
 
 ## Jornada do usuário
 
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
+Esta é a trajetória de Ana, desde a frustração com a conta de luz até a solução do problema com o aplicativo.
+
+#### **Como a tarefa começa? (Descoberta)**
+
+1.  **Gatilho:** Ana recebe mais uma conta de energia com valor inesperadamente alto, sentindo-se frustrada e sem controle.
+2.  **Pesquisa:** Ela busca ativamente na internet por soluções como "aplicativo para controlar gastos com energia".
+3.  **Primeiro Contato:** Encontra o "Gestor de Consumo", se atrai pela promessa de clareza e controle, e decide instalar o app.
+
+#### **Como a tarefa se desenvolve? (Uso e Análise)**
+
+4.  **Configuração:** Ela realiza um cadastro rápido e segue um guia simples para registrar seus principais eletrodomésticos.
+5.  **Momento de Clareza:** Após alguns dias, o dashboard revela com um gráfico simples que o chuveiro elétrico e o ar-condicionado são os maiores responsáveis pelo alto consumo.
+6.  **Ação com Base em Dados:** Com essa informação, ela conversa com a família de forma objetiva, mostrando os "vilões" do consumo e propondo metas (ex: banhos mais curtos).
+7.  **Monitoramento:** O app envia alertas de consumo excessivo, permitindo que ela corrija o uso dos aparelhos em tempo real e veja o impacto positivo na projeção da conta.
+
+#### **Como a tarefa termina? (Resultado e Hábito)**
+
+8.  **Sucesso:** A conta de luz seguinte chega visivelmente mais baixa. Ana sente o alívio de ter alcançado seu objetivo.
+9.  **Hábito:** O uso do aplicativo se consolida como uma ferramenta de rotina para manter as despesas sob controle.
+10. **Recomendação:** Satisfeita, Ana recomenda o aplicativo para amigos e familiares que passam pela mesma dificuldade, tornando-se uma promotora do serviço.
 
 ## Análise de concorrência
 
