@@ -70,9 +70,7 @@ Apresente uma breve descrição da sua aplicação ou produto.
     * Tomar decisões baseadas em dados (ex: trocar um eletrodoméstico).
     * Reduzir o estresse financeiro e alcançar a economia desejada.
 
----
-
-### **Persona Secundária: Carlos, o Eletricista**
+**Persona Secundária: Carlos, o Eletricista**
 
 (Profissional que pode usar ou recomendar a ferramenta para agregar valor ao seu serviço)
 
