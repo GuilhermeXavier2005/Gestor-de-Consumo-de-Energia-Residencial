@@ -53,14 +53,41 @@ Apresente uma breve descrição da sua aplicação ou produto.
 
 ![Mapa de empatia](empatia.png)
 
-- Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
-  - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
-  - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
-  - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou poduto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou poduto?
-  Que tipo de serviço ou poduto mais agrada essa persona?
-  - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
+**Persona Primária: Ana, a Gestora do Lar**
+
+(Usuária final do aplicativo, preocupada em reduzir a conta de luz da família)
+
+* **Pensa e Sente:** Frustrada por não saber o que mais gasta energia. Ansiosa com o valor da conta. Deseja ter mais controle sobre as finanças e ensinar bons hábitos aos filhos.
+* **Vê:** Contas de luz cada vez mais altas, notícias sobre aumento de tarifas e filhos usando muitos eletrônicos.
+* **Escuta:** Reclamações de amigos e familiares sobre o custo da energia e dicas genéricas de economia na mídia.
+* **Fala e Faz:** Pede constantemente para a família apagar as luzes e desligar aparelhos. Pesquisa online por soluções para economizar.
+* **Dores:**
+    * Não saber quais aparelhos são os verdadeiros vilões do consumo.
+    * Dificuldade em engajar a família na economia.
+    * Medo de surpresas na conta de luz no fim do mês.
+* **Ganhos:**
+    * Ter clareza e controle sobre os gastos com energia.
+    * Tomar decisões baseadas em dados (ex: trocar um eletrodoméstico).
+    * Reduzir o estresse financeiro e alcançar a economia desejada.
+
+---
+
+### **Persona Secundária: Carlos, o Eletricista**
+
+(Profissional que pode usar ou recomendar a ferramenta para agregar valor ao seu serviço)
+
+* **Pensa e Sente:** Precisa de formas para provar o valor do seu trabalho ao cliente. Sente a necessidade de se diferenciar da concorrência oferecendo soluções modernas.
+* **Vê:** Instalações elétricas ineficientes nas casas dos clientes e o crescimento do mercado de automação e eficiência energética.
+* **Escuta:** Clientes pedindo ajuda para reduzir o consumo e reclamando que as medidas que tomam não funcionam.
+* **Fala e Faz:** Oferece consultoria de eficiência energética. Realiza diagnósticos e sugere melhorias e a troca de equipamentos.
+* **Dores:**
+    * Dificuldade em demonstrar o impacto real do seu serviço na conta de luz.
+    * Concorrência focada apenas no menor preço.
+    * Falta de ferramentas para diagnósticos rápidos e precisos.
+* **Ganhos:**
+    * Aumentar sua credibilidade e justificar o valor do seu serviço com dados.
+    * Fidelizar clientes, tornando-se uma referência em eficiência energética.
+    * Criar novas oportunidades de negócio, como monitoramento e manutenção.
 
 ## Contexto de uso
 
