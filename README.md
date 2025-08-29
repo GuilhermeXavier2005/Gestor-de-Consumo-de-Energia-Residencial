@@ -24,12 +24,30 @@ Apresente uma breve descrição da sua aplicação ou produto.
 
 ### Personas
 
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
+  **Persona Primária: Ana (A Gestora do Lar)**
+        Ana representa o usuário residencial principal. Com cerca de 38 anos, pertence à classe média, é mãe e a principal responsável pelo planejamento financeiro da família. Seu contexto cultural é pragmático em relação à tecnologia: ela utiliza aplicativos que resolvem problemas práticos de forma simples. Sua motivação para usar o produto é primariamente econômica, buscando reduzir a conta de luz para aliviar o orçamento doméstico.
 
-  - Persona primaira ...
-  - Persona secundária ...
-  - Outras personas ...
+  **Persona Secundária: Carlos (O Eletricista Profissional)**
+        Carlos é um profissional autônomo de 45 anos que busca se diferenciar no mercado. Seu contexto econômico o impulsiona a agregar valor ao seu serviço para justificar um preço justo, em vez de competir apenas por preço. Culturalmente, ele vê a tecnologia como uma ferramenta de trabalho para otimizar seus diagnósticos e provar a qualidade de seu serviço ao cliente.
+
+  **Outras Personas: Tiago (O Jovem Tecnológico)**
+        Tiago representa o "early adopter", um jovem desenvolvedor de 26 anos, entusiasta de tecnologia, dados e automação. Seu contexto cultural é o de quem busca otimizar a vida com tecnologia. Economicamente, ele não tem a mesma pressão orçamentária de Ana, mas sua motivação é ter controle total sobre os dados de consumo por eficiência, curiosidade e para integrar com sua visão de casa inteligente.
+
+* **Quais informações sobre o usuário o serviço ou poduto deve guardar?**
+
+    * **Persona primária (Ana):**
+        * Dados de perfil (login) e tarifa de energia local.
+        * Configuração da residência (lista de aparelhos por cômodo).
+        * Histórico de consumo detalhado (geral e por aparelho).
+        * Metas de economia e configurações de alertas.
+
+    * **Persona secundária (Carlos):**
+        * Deve guardar todas as informações da persona primária.
+        * Adicionalmente, deve permitir o gerenciamento de múltiplos clientes/residências.
+        * Deve armazenar dados para a geração de relatórios comparativos (antes/depois de um serviço).
+
+    * **Outras personas (Tiago):**
+        * As informações a serem guardadas são as mesmas da Persona Primária (Ana), pois o modo de uso residencial é o mesmo.
 
 ### Mapa de empatia
 
