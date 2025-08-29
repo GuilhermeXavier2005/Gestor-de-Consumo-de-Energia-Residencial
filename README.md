@@ -1,26 +1,28 @@
-# **Tema escolhido:** Nome da aplicação ou produto
+# **Gerenciamento de Energia Residencial:** Voltagem
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Guilherme Silva Xavier
+- Victor Augusto Caramori Andre
 
 ## Resumo
 
-Apresente uma breve descrição da sua aplicação ou produto.
+O projeto IHC Voltagem mira precisamente no gerenciamento dos gastos energéticos residenciais, além disso, a voltagem é capaz de armazenar as informações do perímetro e conceber sugestões através dos cálculos de consumo e custos de mantença da eletricidade. Combinando o perfil cadastrado é possível elaborar soluções para os gastos otimizadamente para melhor salvamento de energia, acompanhando seu atual status - consumo, wattz já usados e atual valor da conta conforme a bandeira de taxa tarifária - construindo gráficos e dashboards para compreensão visual do usuário. A voltagem registra, recomenda, alerta e guarda seu histórico conforme o seu cadastro vai se atualizando, melhor se tornam as otimizações.
 
 ## Introdução
 
-- Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária.
-- Em uma única frase, resuma o objetivo do serviço ou poduto.
-- Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
+- <strong>(Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária)</strong>. A voltagem é uma visa a construção de elementos gráficos eficientes afim de elucidar os seus clientes, por vezes, discorre de gastos enganosos, erros de leituras ou desconhecimento das bandeiras cobradas sobre o consumo. Enntão algumas dessas questões podem ser exaustivas e demandarem tempo dos usuarios para entender sob qual circunstância suas contas estão aumentando, fazendo que seus usuários sejam capazes de tomar melhores decisões e mudanças de hábitos
+- <strong>(Em uma única frase, resuma o objetivo do serviço ou poduto)</strong>. A melhora da inteligibilidade do usuário é esencial na voltagem, é qual esta é completamente programada para ajudar a entender seus gastos
+- <strong>(Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?)</strong>. O usuário serão capazes de melhor compreender possíveis variações, continuidades e médias dos seus consumos e custos, facilitando sua tomada de decisão. A voltagem oferece elucidar perguntas que podem afetar a sua economia semanal, mensal e anual.
 
 ## Publico Alvo
 
-- Determine o seu público alvo:
+- <strong>Determine o seu público alvo</strong>:
+  - Residentes
+  - Sindicos
+  - Comerciantes locais
 
 ### Personas
 
@@ -89,10 +91,14 @@ Apresente uma breve descrição da sua aplicação ou produto.
 
 ## Contexto de uso
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-- Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+- <strong>Descreva o ambiente em que o serviço ou poduto deve ser utilizado.</strong>
+  - A voltagem é usado principalmente em um fornecimento web, de modo que todos em uma rede internet posssa acessar. Também deverá oferecer interface com dispositivos móveis, uma versão offline sem conexão aos seus dados no banco. Sendo fácil utilização em pequenos segundos permitindo acompanhamento com atualizações em pequenas horas ou movimentações quantitativas de consumo, ajuste de valores ou cadastro de novos itens e pessoas.
+- <strong>Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?</strong>
+  - Aplica-se em quaisquer detentor de uma residência, seja própria ou imóvel alugado e também comerciantes que possuam um local para depositar, vender e/ou construir. A voltagem desconsidera culturas ou movimentos sociais uma vez que é focada somente em construir um melhor gerenciamento entre pessoa e consumo elétrico, compreendendo apenas questões orçamentárias do usuário para que este possa aderir as sugestões da voltagem em otimizações de uso energético. 
+- <strong>Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?</strong>
+  - Questões sobre orçamento mensal de despesas essenciais, números de equipamentos e membros familiares são indispensáveis para a operação da Voltagem, assim como se faz necessário a comprovação de uma pessoa física ou jurídica que responde por um imóvel a ser calculado, bem como prevê constitucionalidades de direito de imóveis. É considerável igualmente obter métricas adicionais para precisão fora da média de consumo estabelecidas pela ANEEL(Agência Nacional de Energia Elétrica)
+- <strong>O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?</strong>
+  - Fornecimento de informações relacionadas ao consumo elétrico, previsões mensais, gráficos e recomendações para diminuição de custos. Todas as estatísticas devem estar concentradas em um layout com responsividade e interface amigável ao usuário
 
 ## Jornada do usuário
 
@@ -155,3 +161,4 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
 <!-- TODOs:
 - Add exemplos
  -->
+
