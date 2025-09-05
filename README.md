@@ -32,7 +32,7 @@ O projeto IHC Voltagem mira precisamente no gerenciamento dos gastos energético
   **Persona Primária: Carlos (O Eletricista Profissional):**
         Carlos é um profissional autônomo de 45 anos que busca se diferenciar no mercado. Seu contexto econômico o impulsiona a agregar valor ao seu serviço para justificar um preço justo, em vez de competir apenas por preço. Culturalmente, ele vê a tecnologia como uma ferramenta de trabalho para otimizar seus diagnósticos e provar a qualidade de seu serviço ao cliente.
 
-  **Outras Primária: Tiago (O Jovem Tecnológico):**
+  **Persona Primária: Tiago (O Jovem Tecnológico):**
         Tiago representa o "early adopter", um jovem desenvolvedor de 26 anos, entusiasta de tecnologia, dados e automação. Seu contexto cultural é o de quem busca otimizar a vida com tecnologia. Economicamente, ele não tem a mesma pressão orçamentária de Ana, mas sua motivação é ter controle total sobre os dados de consumo por eficiência, curiosidade e para integrar com sua visão de casa inteligente.
 
 * **Quais informações sobre o usuário o serviço ou poduto deve guardar?**
