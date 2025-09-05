@@ -161,7 +161,7 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
 
 ## Coleta de dados
 
-
+Link para o formulário: https://docs.google.com/forms/d/1gnt6d2HOXxtQqbdqEJQaPvwCvlw3JXGYxVTYouv06SM/edit
 
 ## Modelo de tarefas
 
