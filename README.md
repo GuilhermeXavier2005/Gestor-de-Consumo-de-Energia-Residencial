@@ -29,10 +29,10 @@ O projeto IHC Voltagem mira precisamente no gerenciamento dos gastos energético
   **Persona Primária: Ana (A Gestora do Lar):**
         Ana representa o usuário residencial principal. Com cerca de 38 anos, pertence à classe média, é mãe e a principal responsável pelo planejamento financeiro da família. Seu contexto cultural é pragmático em relação à tecnologia: ela utiliza aplicativos que resolvem problemas práticos de forma simples. Sua motivação para usar o produto é primariamente econômica, buscando reduzir a conta de luz para aliviar o orçamento doméstico.
 
-  **Persona Secundária: Carlos (O Eletricista Profissional):**
+  **Persona Primária: Carlos (O Eletricista Profissional):**
         Carlos é um profissional autônomo de 45 anos que busca se diferenciar no mercado. Seu contexto econômico o impulsiona a agregar valor ao seu serviço para justificar um preço justo, em vez de competir apenas por preço. Culturalmente, ele vê a tecnologia como uma ferramenta de trabalho para otimizar seus diagnósticos e provar a qualidade de seu serviço ao cliente.
 
-  **Outras Personas: Tiago (O Jovem Tecnológico):**
+  **Outras Primária: Tiago (O Jovem Tecnológico):**
         Tiago representa o "early adopter", um jovem desenvolvedor de 26 anos, entusiasta de tecnologia, dados e automação. Seu contexto cultural é o de quem busca otimizar a vida com tecnologia. Economicamente, ele não tem a mesma pressão orçamentária de Ana, mas sua motivação é ter controle total sobre os dados de consumo por eficiência, curiosidade e para integrar com sua visão de casa inteligente.
 
 * **Quais informações sobre o usuário o serviço ou poduto deve guardar?**
@@ -43,12 +43,12 @@ O projeto IHC Voltagem mira precisamente no gerenciamento dos gastos energético
         * Histórico de consumo detalhado (geral e por aparelho).
         * Metas de economia e configurações de alertas.
 
-    * **Persona secundária (Carlos):**
+    * **Persona primária (Carlos):**
         * Deve guardar todas as informações da persona primária.
         * Adicionalmente, deve permitir o gerenciamento de múltiplos clientes/residências.
         * Deve armazenar dados para a geração de relatórios comparativos (antes/depois de um serviço).
 
-    * **Outras personas (Tiago):**
+    * **Persona primária (Tiago):**
         * As informações a serem guardadas são as mesmas da Persona Primária (Ana), pois o modo de uso residencial é o mesmo.
 
 ### Mapa de empatia
@@ -72,7 +72,7 @@ O projeto IHC Voltagem mira precisamente no gerenciamento dos gastos energético
     * Tomar decisões baseadas em dados (ex: trocar um eletrodoméstico).
     * Reduzir o estresse financeiro e alcançar a economia desejada.
 
-**Persona Secundária: Carlos, o Eletricista**
+**Persona Primária: Carlos, o Eletricista**
 
 (Profissional que pode usar ou recomendar a ferramenta para agregar valor ao seu serviço)
 
@@ -123,6 +123,28 @@ Esta é a trajetória de Ana, desde a frustração com a conta de luz até a sol
 9.  **Hábito:** O uso do aplicativo se consolida como uma ferramenta de rotina para manter as despesas sob controle.
 10. **Recomendação:** Satisfeita, Ana recomenda o aplicativo para amigos e familiares que passam pela mesma dificuldade, tornando-se uma promotora do serviço.
 
+Esta é a trajetória de Carlos, desde a dificuldade em provar seu valor até se tornar um eletricista consultor baseado em dados.
+
+#### **Como a tarefa começa? (Descoberta)**
+
+1.  **Gatilho:** Um cliente reclama que a conta de luz continua alta mesmo após um serviço. Carlos sente que sua palavra técnica não é o suficiente para provar o real problema ou justificar um investimento maior.
+2.  **Pesquisa:** Ele busca ativamente por soluções profissionais como "ferramenta para eletricista medir consumo" para ter dados concretos para apresentar.
+3.  **Primeiro Contato:** Encontra o "Gestor de Consumo" e se atrai pela existência de um "Modo Profissional", com gerenciamento de clientes e relatórios.
+
+#### **Como a tarefa se desenvolve? (Uso e Análise)**
+
+4.  **Configuração:** Em uma visita de diagnóstico, ele usa o app junto com o cliente, cadastrando os aparelhos para iniciar o monitoramento e posicionando a ferramenta como parte de seu serviço de análise técnica.
+5.  **Momento de Clareza:** Dias depois, o dashboard revela que um freezer antigo é o grande vilão do consumo. Ele mostra o gráfico ao cliente, explicando o impacto financeiro exato daquele aparelho.
+6.  **Ação com Base em Dados:** Convencido pelos dados irrefutáveis, o cliente aprova a recomendação de Carlos para a troca do aparelho e a adequação do circuito elétrico.
+7.  **Monitoramento:** Após o serviço, Carlos inicia um novo período de monitoramento para validar a economia gerada pela intervenção.
+
+#### **Como a tarefa termina? (Resultado e Hábito)**
+
+8.  **Sucesso:** O app gera um relatório comparativo de "Antes e Depois", que Carlos apresenta ao cliente, provando a eficácia do seu trabalho e o retorno sobre o investimento.
+9.  **Hábito:** O aplicativo se consolida como a ferramenta padrão em seu "Serviço de Consultoria de Eficiência", sendo usado para diagnóstico e validação em todos os seus principais clientes.
+10. **Recomendação:** Satisfeito, Carlos se torna um promotor da ferramenta em sua rede profissional, enquanto seus clientes o recomendam como um especialista diferenciado.
+
+
 ## Análise de concorrência
 
 1. Plugs Inteligentes (Ex: Positivo, Intelbras)
@@ -138,6 +160,8 @@ Os aplicativos das próprias distribuidoras de energia são gratuitos e apresent
 Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são a automação, que permite criar rotinas para economizar energia, e a conveniência de centralizar o controle de vários dispositivos. Os pontos negativos são que o foco principal é a automação e não a análise de consumo, o alto custo para montar o ecossistema e a análise de dados de energia, que é geralmente muito básica ou até mesmo inexistente.
 
 ## Coleta de dados
+
+
 
 ## Modelo de tarefas
 
