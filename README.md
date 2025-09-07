@@ -15,7 +15,7 @@ O projeto IHC Voltagem mira precisamente no gerenciamento dos gastos energético
 
 - <strong>(Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária)</strong>. A voltagem é uma visa a construção de elementos gráficos eficientes afim de elucidar os seus clientes, por vezes, discorre de gastos enganosos, erros de leituras ou desconhecimento das bandeiras cobradas sobre o consumo. Enntão algumas dessas questões podem ser exaustivas e demandarem tempo dos usuarios para entender sob qual circunstância suas contas estão aumentando, fazendo que seus usuários sejam capazes de tomar melhores decisões e mudanças de hábitos
 - <strong>(Em uma única frase, resuma o objetivo do serviço ou poduto)</strong>. A melhora da inteligibilidade do usuário é esencial na voltagem, é qual esta é completamente programada para ajudar a entender seus gastos
-- <strong>(Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?)</strong>. O usuário serão capazes de melhor compreender possíveis variações, continuidades e médias dos seus consumos e custos, facilitando sua tomada de decisão. A voltagem oferece elucidar perguntas que podem afetar a sua economia semanal, mensal e anual.
+- <strong>(Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?)</strong>. O usuário será capazes de melhor compreender as possíveis variações, continuidades e médias dos seus consumos e custos, facilitando sua tomada de decisão. A voltagem oferece elucidar perguntas que podem afetar a sua economia semanal, mensal e anual aplicando tecnologias como HTML, CSS, Javascript e ReactJS.
 
 ## Publico Alvo
 
@@ -161,7 +161,7 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
 
 ## Coleta de dados
 
-Link para o formulário: https://docs.google.com/forms/d/1gnt6d2HOXxtQqbdqEJQaPvwCvlw3JXGYxVTYouv06SM/edit
+O <a href="https://docs.google.com/forms/d/1gnt6d2HOXxtQqbdqEJQaPvwCvlw3JXGYxVTYouv06SM/edit">formulário</a> de preenchimento é requirido para contextualizar a aplicação do usuário a ser analisado.
 
 ## Modelo de tarefas
 
@@ -185,4 +185,5 @@ Link para o formulário: https://docs.google.com/forms/d/1gnt6d2HOXxtQqbdqEJQaPv
 <!-- TODOs:
 - Add exemplos
  -->
+
 
