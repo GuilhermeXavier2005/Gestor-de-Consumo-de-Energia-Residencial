@@ -172,6 +172,7 @@ O <a href="https://docs.google.com/forms/d/1gnt6d2HOXxtQqbdqEJQaPvwCvlw3JXGYxVTY
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
 
 ### Prototipação em baixo nível (papel)
+![Esquema das paginas(Rascunho)](esquematizacao.jpeg)
 #### Avaliação heurística
 
 ### Prtotipação em médio nível (Figma)
@@ -187,6 +188,7 @@ O <a href="https://docs.google.com/forms/d/1gnt6d2HOXxtQqbdqEJQaPvwCvlw3JXGYxVTY
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
