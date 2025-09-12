@@ -175,6 +175,8 @@ O <a href="https://docs.google.com/forms/d/1gnt6d2HOXxtQqbdqEJQaPvwCvlw3JXGYxVTY
 #### Avaliação heurística
 
 ### Prtotipação em médio nível (Figma)
+![Menu de login inicial(Rascunho)](dashboard1.jpeg)
+![Menu de login inicial(Rascunho)](dashboard2.jpeg)
 #### Avaliação heurística
 
 ### Prtotipação em alto nível (React)
@@ -185,5 +187,6 @@ O <a href="https://docs.google.com/forms/d/1gnt6d2HOXxtQqbdqEJQaPvwCvlw3JXGYxVTY
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
