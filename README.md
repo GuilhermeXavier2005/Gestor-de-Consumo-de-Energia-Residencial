@@ -165,6 +165,7 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
   O <a href="https://docs.google.com/forms/d/1gnt6d2HOXxtQqbdqEJQaPvwCvlw3JXGYxVTYouv06SM/edit">formulário</a> de preenchimento é requirido para contextualizar a aplicação do usuário a ser analisado.
 - diario de atividades para captar o problema específico do usuário.
   - O usuário haverá de preencher dentro do aplicativo uma espécie de diário, ou blocos de notas conforme a escolha do usuário, no qual ele pode diariamente relatar os problemas envolvidos e enviar para uma análise que buscará atender conformemente os seus pedidos no formato do aplicativo, atendendo seu critério específico, muito semelhante a um chat direto, e se não houver para a Voltagem um algoritmo para tal caso, aplicar Machine Learning em finalidade de aperfeiçoar o software para polir melhor o perfil do cliente. Adicionalmente, uma aba para qual o usuário pode abrir caixinhas de marcação oferecidas pelo próprio software, fazendo que o usuário participe diretamente nas decisões de atualizações futuras, essas caixinhas serão semanalmente atualizadas coletando os votos individual.
+- entrevista: <a href="https://feiedu-my.sharepoint.com/:w:/g/personal/unifvandre_fei_edu_br/EdLRzGaXYWBCkruc_Z_tqywBXTrwZLCbaHRKYiKyiaywLA?e=JHWgO9"> (perguntas para realizar a entrevista).
 
 ## Modelo de tarefas
 
