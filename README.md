@@ -175,6 +175,24 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
     - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
 
+## Analise de tratamento de problemas
+Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir).
+1. Criar conta ou login.
+2. Inserir tarifa local (bandeira/CEP). 
+3. Definir residência (quartos, cômodos).
+7. Adicionar aparelho (nome, potência nominal, uso/hora estimada, cômodo).
+4. (Opcional) vincular a medição via plug inteligente ou entrada de leitura.
+5. Sincronizar com concessionária (se disponível).
+6. Receber leituras manuais/diário do usuário.
+7. Agregar dados históricos e aplicar cálculos de custo (bandeira tarifária). 
+8. Abrir dashboard.
+9. Filtrar por período (dia/semana/mês).
+10. Selecionar “consumo por aparelho” e ordenar.
+11. Identificar top-3 aparelhos de maior consumo.
+12. Receber recomendação automática (ex.: “reduzir uso do chuveiro 10%”).
+13. Definir meta / alerta (p.ex. aviso quando consumo > X%).
+14. Monitorar efeitos (comparar antes/depois)
+
 ### Prototipação em baixo nível (papel)
 ![Esquema das paginas(Rascunho)](esquematizacao.jpeg)
 ![Esquema das paginas principais(Rascunho)](paginas.jpg)
@@ -192,6 +210,7 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
