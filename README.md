@@ -184,6 +184,72 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
     - 2.3.3. Verificar que os campos foram limpos, preparando a tela para um novo lançamento.
     - *Tratamento de Erro*: Se o usuário clicar em **"Salvar Registro"** com campos obrigatórios vazios, o sistema exibe uma mensagem de erro contextual (ex: "Selecione um aparelho") e destaca os campos inválidos, impedindo o envio.
 
+## GOMS (Goals, Operators, Methods, Selection Rules)
+
+*GOAL 0: Gerenciar e calcular o consumo de energia residencial.*
+
+---
+
+### GOAL 1: Adicionar um novo aparelho ao sistema
+
+**METHOD 1.A:** Cadastrar um aparelho pela tela de formulário.
+- **SELECTION RULE:** O usuário precisa inserir um novo eletrodoméstico para que seus gastos possam ser calculados.
+- **OPERATORS:**
+  1. Na tela principal, tocar no botão flutuante de "Adicionar" (+).
+  2. No menu que aparece, tocar na opção "Adicionar Aparelho".
+  3. Tocar no campo "Nome do Aparelho" e digitar o nome.
+  4. Tocar no campo "Potência em Watts" e digitar o valor da potência.
+  5. Tocar no campo "Cômodo" para abrir a lista de cômodos.
+  6. Selecionar um cômodo já existente na lista.
+  7. Tocar no botão "Salvar".
+  8. Ver a mensagem de confirmação ("Aparelho salvo com sucesso!").
+
+---
+
+### GOAL 2: Registrar um período de consumo para um aparelho
+
+**METHOD 2.A:** Lançar um novo registro de consumo.
+- **SELECTION RULE:** O usuário precisa registrar quanto tempo um aparelho ficou ligado para que o sistema possa calcular o custo.
+- **OPERATORS:**
+  1. Na tela principal, tocar no botão flutuante de "Adicionar" (+).
+  2. No menu que aparece, tocar na opção "Adicionar Consumo".
+  3. Tocar no campo "Aparelho" para abrir a lista de aparelhos.
+  4. Selecionar o aparelho desejado.
+  5. Tocar no campo "Tempo de uso em minutos" e digitar o valor total em minutos.
+  6. Tocar no botão "Salvar".
+  7. Ver a mensagem de confirmação ("Consumo salvo com sucesso!").
+
+---
+
+### GOAL 3: Configurar o custo da energia
+
+**METHOD 3.A:** Definir o valor do KWh (Quilowatt-hora).
+- **SELECTION RULE:** O usuário precisa informar ao sistema o preço da sua companhia de energia para que os cálculos de custo sejam precisos.
+- **OPERATORS:**
+  1. Na tela principal, tocar no ícone de menu (três pontos).
+  2. Tocar na opção "Configurações".
+  3. Tocar no campo "Valor do KWh".
+  4. Digitar o valor monetário do KWh (ex: 0.75).
+  5. Tocar em "Salvar" ou sair da tela para salvar automaticamente.
+
+---
+
+### GOAL 4: Analisar o consumo total
+
+**METHOD 4.A:** Verificar o cálculo de custo na tela principal.
+- **SELECTION RULE:** O usuário quer saber o custo total gerado por todos os consumos registrados.
+- **OPERATORS:**
+  1. Abrir o aplicativo e visualizar a tela principal.
+  2. Localizar o card ou texto que exibe o "Custo Total Mensal".
+  3. Ler o valor em Reais (R$) calculado pelo sistema.
+
+---
+### Observações da Análise Aprofundada
+
+* **Registro de Consumo:** O formulário do projeto (`FormConsumoActivity.java`) solicita o tempo de uso em **minutos totais**, e não em horas e minutos separados. O GOMS foi ajustado para refletir isso.
+* **Novo Goal (Configuração):** A presença de uma `ConfiguracaoActivity.java` para salvar o valor do KWh representa uma tarefa crucial do usuário, adicionada como GOAL 3.
+* **Fluxo de Adição:** O uso de um `FloatingActionButton` que abre um menu foi incorporado aos métodos, conforme a estrutura do app
+
 ## Design
 
 - Pense nas características de Affordances do seu serviço ou poduto. 
