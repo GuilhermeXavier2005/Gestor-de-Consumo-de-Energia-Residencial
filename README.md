@@ -171,8 +171,8 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
 
 ![Mapa HTA](mapaHTA.png)
 
-- 2.0. Registrar Consumo (Visão Detalhada)**
-  - 2.1. Selecionar Aparelho**
+- 2.0. Registrar Consumo (Visão Detalhada)
+  - 2.1. Selecionar Aparelho
     - 2.1.1. Na tela de registros, clicar no *campo de seleção* para abrir a lista de aparelhos cadastrados.
     - 2.1.2. Rolar a lista ou digitar para encontrar e clicar no aparelho desejado.
   - 2.2. Informar Tempo de Uso**
