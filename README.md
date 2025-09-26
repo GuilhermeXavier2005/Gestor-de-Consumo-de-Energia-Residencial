@@ -175,10 +175,10 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
   - 2.1. Selecionar Aparelho
     - 2.1.1. Na tela de registros, clicar no *campo de seleção* para abrir a lista de aparelhos cadastrados.
     - 2.1.2. Rolar a lista ou digitar para encontrar e clicar no aparelho desejado.
-  - 2.2. Informar Tempo de Uso**
+  - 2.2. Informar Tempo de Uso
     - 2.2.1. Inserir os valores numéricos de tempo nos campos *Horas* e *Minutos*.
     - 2.2.2. Clicar no *campo "Data"* para abrir um calendário e selecionar o dia do consumo (o padrão é a data atual).
-  - 2.3. Salvar Registro**
+  - 2.3. Salvar Registro
     - 2.3.1. Clicar no botão de ação principal, **"Salvar Registro"**.
     - 2.3.2. Observar a notificação de sucesso que confirma o registro.
     - 2.3.3. Verificar que os campos foram limpos, preparando a tela para um novo lançamento.
