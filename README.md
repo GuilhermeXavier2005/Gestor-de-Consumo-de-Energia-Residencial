@@ -234,36 +234,7 @@ Estas plataformas atuam como concorrentes indiretos. Seus pontos positivos são 
 
 ## ConcurTaskTrees (CTT)
 
-Gerenciar Consumo de Energia |||
-
-- **1. Analisar Relatórios >>**
-    - 1.1. Acessar a tela principal (Dashboard) >>
-    - 1.2. Sistema calcula e exibe o custo total mensal
-        - 1.3. Aplicar Filtro*
-
-- **2. Registrar Consumo >>**
-    - 2.1. Acionar comando "Adicionar Consumo" >>
-    - 2.2. Sistema exibe o formulário de consumo >>
-    - 2.3. Preencher dados do consumo |||
-        - 2.3.1. Selecionar Aparelho na lista
-        - 2.3.2. Digitar o tempo de uso em minutos >>
-    - 2.4. Clicar em "Salvar" >>
-    - 2.5. Sistema salva o registro e exibe confirmação
-
-- **3. Gerenciar Cadastros []**
-    - 3.1. Gerenciar Aparelhos []
-        - 3.1.1. Adicionar Aparelho >>
-            - 3.1.1.1. Acionar comando "Adicionar Aparelho" >>
-            - 3.1.1.2. Sistema exibe o formulário do aparelho >>
-            - 3.1.1.3. Preencher dados (nome, potência, cômodo) >>
-            - 3.1.1.4. Clicar em "Salvar"
-    - 3.2. Gerenciar Cômodos
-    
-- **4. Configurar App >>**
-    - 4.1. Acessar a tela "Configurações" >>
-    - 4.2. Sistema exibe o campo "Valor do KWh" >>
-    - 4.3. Inserir o valor do KWh >>
-    - 4.4. Salvar a configuração
+![Esquema em mapa](CTT.png)
 
 ## Design
 
