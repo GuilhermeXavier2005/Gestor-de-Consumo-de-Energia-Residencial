@@ -295,7 +295,7 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 #### Avaliação heurística
 
 ### Prtotipação em médio nível (Figma)
-![Menu de login inicial(Rascunho)](dashboard1.jpeg)
+![(Rascunho)](ProtMedioNivel2.png)
 #### Avaliação heurística
 
 ### Prtotipação em alto nível (React)
