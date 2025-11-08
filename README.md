@@ -265,6 +265,10 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 ![Esquema das paginas principais(Rascunho)](paginas.jpg)
 #### Avaliação heurística
 
+### MOLIC
+
+![dashboard 1](u acessar o dashboard.png)
+
 ### Prtotipação em médio nível (Figma)
 ![(Rascunho)](ProtMedioNivel2.png)
 #### Avaliação heurística
@@ -277,6 +281,7 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
