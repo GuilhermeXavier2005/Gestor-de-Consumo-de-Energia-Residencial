@@ -267,7 +267,10 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 
 ### MOLIC
 
-![dashboard 1](u acessar o dashboard.png)
+![dashboard 1](dashoboard1.png)
+![dashboard 2](mediaPaparelho.png)
+![dashboard 3](dashoboard1.png)
+![dashboard 4](médias.png)
 
 ### Prtotipação em médio nível (Figma)
 ![(Rascunho)](ProtMedioNivel2.png)
@@ -281,6 +284,7 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
