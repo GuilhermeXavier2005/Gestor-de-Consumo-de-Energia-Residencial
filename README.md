@@ -269,7 +269,7 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 
 ![dashboard 1](dashboardPrincipal.png)
 ![dashboard 2](mediaPaparelho.png)
-![dashboard 3](dashboard1.png)
+![dashboard 3](cadastrodeaparelhos.png)
 ![dashboard 4](médias.png)
 
 ### Prtotipação em médio nível (Figma)
@@ -284,6 +284,7 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
