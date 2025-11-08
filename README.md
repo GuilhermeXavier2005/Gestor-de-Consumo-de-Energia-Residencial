@@ -278,13 +278,14 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
-<strong>Auto avaliação heurística : [Modelo02AvaliacaoHeuristica.pdf]</strong>
+<strong>Auto avaliação heurística : <a href="Modelo02AvaliacaoHeuristica.pdf">avaliação modelo 02</a></strong>
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
 
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
