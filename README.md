@@ -276,6 +276,7 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 ![(Figma)](FIGMA.png)
 - Link para o projeto: <a href="https://www.figma.com/design/lD1s06lJHyz9JRI0985U77/IHC-Voltagem?node-id=0-1&t=1TWqm5BSUEBXSy7j-1"> FIGMA.
 #### Avaliação heurística
+<a href="ModeloAvaliacaoHeuristica.pdf">avaliação modelo 02</a>
 
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
