@@ -273,7 +273,8 @@ Reduzir gasto detectando o vilão do consumo (meta do usuário: entender e agir)
 ![dashboard 4](médias.png)
 
 ### Prtotipação em médio nível (Figma)
-![(Rascunho)](ProtMedioNivel2.png)
+![(Figma)](FIGMA.png)
+- Link para o projeto: <a href="https://www.figma.com/design/lD1s06lJHyz9JRI0985U77/IHC-Voltagem?node-id=0-1&t=1TWqm5BSUEBXSy7j-1"> FIGMA.
 #### Avaliação heurística
 
 ### Prtotipação em alto nível (React)
